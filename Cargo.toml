@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "crates/gilatod-gateway",
+]
+resolver = "2"
